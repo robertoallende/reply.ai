@@ -157,8 +157,8 @@ Format: Priority, Email Subject, List of actions using bullet point. One Action 
 
 ## Authors
 
-- Jamie Green - CEO
-- Roberto Allende - CTO
+- [James Green - CEO](https://www.linkedin.com/in/james-w-green/)
+- [Roberto Allende - CTO](https://www.linkedin.com/in/robertoallende/)
 
 ## License
 
