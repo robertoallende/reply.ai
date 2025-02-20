@@ -157,12 +157,12 @@ Format: Priority, Email Subject, List of actions using bullet point. One Action 
 
 ## Authors
 
-- [James Green - CEO](https://www.linkedin.com/in/james-w-green/)
-- [Roberto Allende - CTO](https://www.linkedin.com/in/robertoallende/)
+- [James Green - Busines Co Founder](https://www.linkedin.com/in/james-w-green/)
+- [Roberto Allende - Technical Co Founder](https://www.linkedin.com/in/robertoallende/)
 
 ## License
 
-MIT License.
+[MIT License](https://github.com/robertoallende/reply.ai/edit/main/README.md).
 
 ---
 Built with ❤️ using Amazon Q Apps
