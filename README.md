@@ -55,8 +55,13 @@ The upcoming version will enhance the current architecture by incorporating exte
 ### Prerequisites
 
 - AWS Account with appropriate permissions
-- Access to Amazon Q Apps
+- Access to Amazon Q Business
 - Basic understanding of AWS services
+
+For an intrduction on Amazon Q Business, Amazon Q and how to get started, watch 
+[Revolutionize Workplace Efficiency with Amazon Q Apps: AI-Powered Task Automation for Every Employee](https://aws.amazon.com/awstv/watch/65709eacee0/)
+and
+[Simplify Company Policies: Create an Amazon Q App for Instant Document Access](https://aws.amazon.com/awstv/watch/b17f4af1716/)
 
 ### Deployment
 
