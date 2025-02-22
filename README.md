@@ -169,5 +169,13 @@ Format: Priority, Email Subject, List of actions using bullet point. One Action 
 
 [MIT License](https://github.com/robertoallende/reply.ai/edit/main/README.md).
 
+## Hackathon Winner
+
+This project has been built with Amazon Q Apps in just two hours at the AWS & Ingram Micro GenAI Hackathon in Auckland 2025.
+
+## A Word of Thanks
+
+The development of Reply.ai wouldn't have been possible without the support and guidance of the AWS & Ingram Micro GenAI Hackathon organizers. Special thanks go to Andrei Lizarraga and Vivian Weiwei Luo, whose expertise and dedication helped shape this project and many others during the event.
+
 ---
 Built with ❤️ using Amazon Q Apps
