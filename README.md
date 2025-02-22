@@ -2,6 +2,10 @@
 
 An intelligent email management system built on Amazon Q Apps that helps prioritize and respond to emails based on user roles and goals.
 
+## Demo
+
+[![Demo Video](https://github.com/user-attachments/assets/293f978c-45fe-4a20-80d0-e7504a9e9b36)](https://youtu.be/CKDVpbILJNM)
+
 ## Overview
 
 reply.ai is a powerful email assistant that leverages Amazon Q's generative AI capabilities to help users manage their email workflow more efficiently. The application analyzes incoming emails, prioritizes them based on user-defined criteria, and generates contextually appropriate responses while tracking actions.
